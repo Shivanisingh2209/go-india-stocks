@@ -1,6 +1,6 @@
 This is the Readme file for the Project Go India Stocks Website
 
-The webpage is hosted at: https://go-india-stocks-assignment.vercel.app/
+The webpage is hosted at: https://go-stocks-india-gray.vercel.app/
 
 In order to run the website on your local server,
 1. Clone the repository onto your desired folder (if git not installed then download and extract the zip).
